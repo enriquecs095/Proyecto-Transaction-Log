@@ -1,0 +1,13 @@
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\bin\Debug\Proyecto Transaction Log.exe.config
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\bin\Debug\Proyecto Transaction Log.exe
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\bin\Debug\Proyecto Transaction Log.pdb
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.csprojAssemblyReference.cache
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto_Transaction_Log.Form1.resources
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto_Transaction_Log.Properties.Resources.resources
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.csproj.GenerateResource.cache
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.exe
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.pdb
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\bin\Debug\System.Data.Odbc.dll
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\bin\Debug\System.Data.Odbc.xml
+C:\Users\Enrique\source\repos\Proyecto Transaction Log\Proyecto Transaction Log\obj\Debug\Proyecto Transaction Log.csproj.CopyComplete
