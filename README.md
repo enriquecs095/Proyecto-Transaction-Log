@@ -15,4 +15,4 @@ When the program starts write bellow instructions:</br>
 - lstdelete: list the delete action transaction.</br>
 - show "Id_Transacction" : write the id transaccion instead of LSN to interpretate the hex code from rowlog content to the original data.</br>
 
-Press "ejecutar" after write any command.
+**Press "ejecutar" button after write any command.**
