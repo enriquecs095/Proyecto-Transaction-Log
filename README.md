@@ -1,4 +1,4 @@
-# Proyecto-Transaction-Log 
+# Transact-Log Project 
 Framwork .NET 4.0 visual basic with ODBC connection as API for SQL SERVER</br>
 Development in csharp as programming language. The project is able to read and interpretate the transact-log from SQL Server as fields RowLog Content 0 and RowLog Cotent 2.</br>
 
