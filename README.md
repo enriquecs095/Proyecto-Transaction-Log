@@ -10,9 +10,9 @@ Every change in a table into a database will be catch in the programs.</br>
 
 ## Running:</br>
 When the program starts write bellow instructions:</br>
-- lstinsert: list the Insert action transaction.</br>
-- lstupdate: list the update action transaction.</br>
-- lstdelete: list the delete action transaction.</br>
+- lstinsert: list all Insert action transaction.</br>
+- lstupdate: list all update action transaction.</br>
+- lstdelete: list all delete action transaction.</br>
 - show "Id_Transacction" : write the id transaccion instead of LSN to interpretate the hex code from rowlog content to the original data.</br>
 
 **Press "ejecutar" button after write any command.**
